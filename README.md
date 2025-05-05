@@ -2,7 +2,18 @@
 
 A PyTorch implementation of Deep Q-Network (DQN) to solve the CartPole-v1 environment from OpenAI Gymnasium.
 
-![CartPole Environment](https://gymnasium.farama.org/_images/cart_pole.gif)
+## Training and Evaluation
+<table>
+  <tr>
+    <td><b>Training</b></td>
+    <td><b>Evaluation</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/362746fb-5bab-43f5-8356-7dfa50940eeb" alt="Training" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/35924f88-bf5b-4f35-b592-3c77f0c6a2fc" alt="Evaluation" width="400"/></td>
+  </tr>
+</table>
+
 
 ## Project Overview
 
