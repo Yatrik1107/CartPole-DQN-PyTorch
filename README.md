@@ -29,7 +29,7 @@ This project implements a Deep Q-Network (DQN) to solve the CartPole-v1 reinforc
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/CartPole-DQN-PyTorch.git
+git clone https://github.com/Yatrik1107/CartPole-DQN-PyTorch.git
 cd CartPole-DQN-PyTorch
 
 # Install dependencies
